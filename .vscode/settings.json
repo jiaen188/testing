@@ -1,0 +1,9 @@
+{
+     // 默认行尾字符。使用 \n 表示 LF，\r\n 表示 CRLF。
+    "files.eol": "\n",
+    "[javascript]": {
+        // "editor.insertSpaces": true,
+        "editor.tabSize": 2,
+        "editor.formatOnSave": false
+    }
+}
