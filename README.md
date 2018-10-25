@@ -3,3 +3,7 @@
 
 # testing
 学习测试相关
+
+获取passing图标
+https://travis-ci.org/
+
